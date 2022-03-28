@@ -1,0 +1,37 @@
+{
+  "short_name": "mid",
+  "name": "Mark It Down",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 48x48 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FEEBC8",
+  "background_color": "#ffffff"
+}
