@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivekpal1/markitdown/main/public/Screenshot1.png" alt="App screenshot">
+  <img src="" alt="App screenshot">
   <br />
 </p>
 
